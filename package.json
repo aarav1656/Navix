@@ -1,0 +1,15 @@
+{
+  "name": "navix_flashloan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "navi-sdk": "^1.1.21",
+    "tsc": "^2.0.4"
+  }
+}
